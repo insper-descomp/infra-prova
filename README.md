@@ -6,23 +6,18 @@ Temos **4 estações de provas** disponíveis:
 * **1** em **Cloud**
 * **1** em **Usabilidade**
 
-Conforme ilustrado a seguir:
 
-### Arquitetura de Computadores
+> [!TIP]
+> ## Precisa de um lugar mais tranquilo?
+> 
+> A sala de **Usabilidade** oferece um ambiente mais silencioso e pode ser utilizada por quem precisa de um espaço mais tranquilo para realizar a prova.
 
-![](Arq-Comp.jpg)
 
-### Cloud
+## Arquitetura de Computadores
 
-![](Cloud.jpg)
+<img src="Arq-Comp.jpg" width="500">
 
-### Usabilidade
-
-![](Usabilidade.jpg)
-
-## Disponibilidade das estações
-
-### Arquitetura de Computadores
+**Horários disponíveis:**
 
 | Dia           | Horário    |
 | ------------- | ---------- |
@@ -32,7 +27,11 @@ Conforme ilustrado a seguir:
 | Quinta-feira  | 10h às 20h |
 | Sexta-feira   | 08h às 16h |
 
-### Cloud
+## Cloud
+
+<img src="Cloud.jpg" width="500">
+
+**Horários disponíveis:**
 
 | Dia           | Horário    |
 | ------------- | ---------- |
@@ -42,7 +41,11 @@ Conforme ilustrado a seguir:
 | Quinta-feira  | 10h às 20h |
 | Sexta-feira   | 08h às 20h |
 
-### Usabilidade
+## Usabilidade
+
+<img src="Usabilidade.jpg" width="500">
+
+**Horários disponíveis:**
 
 | Dia           | Horário    |
 | ------------- | ---------- |
@@ -52,7 +55,4 @@ Conforme ilustrado a seguir:
 | Quinta-feira  | 13h às 20h |
 | Sexta-feira   | 13h às 20h |
 
-## Precisa de um lugar mais tranquilo?
-
-A sala de **Usabilidade** oferece um ambiente mais silencioso e pode ser utilizada por quem precisa de um espaço mais tranquilo para realizar a prova.
 
